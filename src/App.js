@@ -30,7 +30,7 @@ function App() {
     // <div className="bg-repeat bg-[url('./assets/images/bg-repeat.jpeg')] bg-fixed">
     //   <Appbar />
     // </div>
-    <div className="bg-[#000] text-[green]">
+    <div className="bg-[#000] text-[green] w-full h-[100vh] flex justify-center items-center">
       SYSTEM IS NOT SAFE
     </div>
   );
